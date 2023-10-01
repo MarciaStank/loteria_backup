@@ -5,6 +5,9 @@ Este projeto tem como objetivo implementar uma aplicação web que simule Sortei
 Endereço de Deploy - GitHub Pages:
 (https://github.com/MarciaStank/loteria)
 
+Endereço para o video explicativo no Youtube:
+https://youtu.be/9RoIjMQ-Tgo
+
 ## Checklist:
 
  ✔️Criar o repositório no GitHub com a estrutura do Gitflow, ou seja, branches main e develop.

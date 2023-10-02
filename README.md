@@ -1,4 +1,5 @@
-Loteria
+**Loteria**
+
 Este projeto tem como objetivo implementar uma aplicação web que simule Sorteio de Loteria.
 
 Endereço de Deploy - GitHub Pages: (https://github.com/MarciaStank/loteria)
